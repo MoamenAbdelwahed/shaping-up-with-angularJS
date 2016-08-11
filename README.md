@@ -1,1 +1,0 @@
-# shaping-up-with-angularJS
